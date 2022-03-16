@@ -4,7 +4,7 @@
 
 please don't read
 
-*let me introduce*
+*introduce*
 
 ### Code
 
