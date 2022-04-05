@@ -1,22 +1,8 @@
 # DonotRead
 
-**Hello**
+### 4/5
 
-please don't read
-hello
+## Technical Infrasructue
 
-*introduce*
+조 이름이 프로젝트명이 될 수 없음
 
-### Code
-
-```
-name = "kim"
-age =  24
-```
-
-### Tables
-```
-|      |
-| name | age
-|      |
-```
